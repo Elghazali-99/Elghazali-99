@@ -1,5 +1,8 @@
-### Hi there 👋
 
+Last year (BAC+5) computer science student with an obsession to every chip that makes a
+computer, creative and passionate about cybersecurity, networking, and hardware, with diverse
+skills including pentesting, problem solving and troubleshooting, enthusiastic and curious about
+new technologies.
 <!--
 **Elghazali-99/Elghazali-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
