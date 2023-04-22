@@ -13,7 +13,7 @@ computer 💻, creative and passionate with cyber security 🛡.
 - 💻 Diverse skillset including pentesting, problem solving, and troubleshooting.
 - 🧠 Enthusiastic and curious about new technologies.  
 
-<h3 align="left">Top public repositories:</h3>
+<h3 align="left">Highlighted repositories:</h3>
 
 <p align="center">
   <a href="https://github.com/Elghazali-99/Prayer-Times-Windows-widget"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Elghazali-99&repo=Prayer-Times-Windows-widget&theme=radical" alt="Prayer-Times-Windows-widget"></a> 
