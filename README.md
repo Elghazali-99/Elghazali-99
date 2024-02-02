@@ -3,11 +3,11 @@
 *Digital Forensics and Incident Response | HCIA Security | Cisco CyberOps | IT Support Specialist | Graphic designer*
 <hr>
 
-Computer science student with an obsession to every chip that makes a
-computer 💻, creative and passionate with cyber security 🛡.  
+Cyber security enthusiast with an obsession to every chip that makes a
+computer 💻, creative, and passionate about cyber security 🛡.  
   
 
-- 🎓 Working on a Privacy-preserving solution as part of my graduation project.
+
 - 🏴 CTF player with [OctaC0re](https://ctftime.org/team/141485) team.
 - 👨‍💻 Obsessed with cybersecurity, networking, and hardware.
 - 💻 Diverse skillset including pentesting, problem solving, and troubleshooting.
