@@ -1,6 +1,6 @@
 <h1 align="left">Mohamed Elghazali Kimeche</h1>
 
-*Digital Forensics and Incident Response | HCIA Security | Cisco CyberOps | IT Support Specialist*
+*Digital Forensics and Incident Response | Cybersecurity Engineer*
 <hr>
 
 Cyber security enthusiast with an obsession to every chip that makes a
